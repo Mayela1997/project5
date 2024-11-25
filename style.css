@@ -1,0 +1,76 @@
+body{
+    text-align: justify;
+    font-family: "Oleo Script", system-ui;
+  font-weight: 400;
+    margin: 3%;
+    background-color: #C8D7A7;
+}
+   
+
+
+h1{
+
+  font-family: "Squada One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: #265933;
+  border-style: none;
+  border-radius: 1em;
+  padding: 1px;
+  background-color: #DDFAD1;
+}
+
+h2{
+
+  font-family: "Oleo Script", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    text-align: center;
+}
+
+p{
+    font-family: "Faustina", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+a{
+  color: #152E1A;
+
+}
+
+li{
+    padding: 1px;
+    margin: 1%;
+   list-style: none;
+    text-align: justify
+}
+
+iframe{
+    max-width: 100%;
+    text-align: center;
+    height: 100;
+    margin: auto;
+    display: block;
+}
+
+section{
+    font-family: "Oleo Script", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #152E1A;
+border-style: none;
+border-radius: 1em;
+padding: 1px;
+background-color: #A7BE6A;
+text-align: center;
+margin: auto;
+}
+
+footer{
+    text-align: center;
+    margin: 1em;
+    font-size: small;
+}
